@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    padding: 50px;
+    text-align: center;
+    background-color: rgba(85, 184, 27, 0.475);
+    font-size: 40px;
+}
+
+nav{
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a{
+    display: blocks;
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+#cpy{
+    text-align: center;
+}
+
+.flex-box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    border: 5px;
+}
+
+.fi{
+    border: 2px black;
+    margin: 12px;
+    width: 122px; 
+    height:122px;
+}
