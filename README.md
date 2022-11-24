@@ -1,9 +1,5 @@
-Problem Statement
-Build a simple library management page where
-● Users should be able to see the list of books
-○ Instead of loading all the results on the page, perform paging on the list of
-books – either implement 10 results per page or load on scroll will be a bonus
-● Users should be able to filter the list of books based on Title, Author, Subject and
-Publish - date
-○ User should be able to see the count of books in based on each criteria [ Title,
-Author, Subject and publish-date]
+An online library where user can read book and buy the books as per their wish.
+They can also find the books they want by applying filter.
+User can also search for the books they want.
+These is a front-end based project.
+HTML, CSS, JAVASCRIPT are the technologies used in this project.
